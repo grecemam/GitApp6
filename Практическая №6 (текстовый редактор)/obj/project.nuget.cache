@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnI5YRZHAZiYBVwqCLO4T5p4BMc7yk1ET+0NOoAAA0qdemYaPPpGZFiDUVli5qrVb74/U8YYDWGEal1M7Lrfgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksi\\OneDrive\\Документы\\Практические работы по с#\\Практическая №6 (текстовый редактор)\\Практическая №6 (текстовый редактор)\\Практическая №6 (текстовый редактор).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
