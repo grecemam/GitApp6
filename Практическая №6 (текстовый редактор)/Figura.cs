@@ -54,7 +54,7 @@ namespace Практическая__6__текстовый_редактор_
                     change = false;
                 }
                 Console.SetCursorPosition(0, pos);
-                Console.Write(">>");
+                Console.Write("=>");
                 ConsoleKey key = Console.ReadKey().Key;
                 switch (key)
                 {
@@ -169,15 +169,11 @@ namespace Практическая__6__текстовый_редактор_
                 catch {
                     break;
                 }
-//               _______
-                // xyu \\
-//              |   []   |
-//               ___[]___
                 Figura figura = new Figura()
                 {
                     name = name,
                     width = width,
-                    height = height
+                    height = height 
                 };
 
                 response.Add(figura);
